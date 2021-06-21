@@ -18,7 +18,7 @@
 body{
 	text-align:center;
 	font-family:'Lato';
-	background:url("../images/image.jpg");
+	background:url("image.jpg");
 	background-repeat: no-repeat;
 	background-size:cover;
 	color:#000;
